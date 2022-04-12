@@ -1,6 +1,11 @@
 # Green-Bond-Issuance
 
-Paper title: A blockchain framework for increased trust in greenbonds issuance
+Paper title: A blockchain framework for digitizing securities issuance: the
+case of green bonds
+
+Abstract
+
+A blockchain-enabled green bond issuance architecture that safeguards investors’ confidence in the bond’s green credentials while keeping the issuer from being accused of greenwashing. To adjust the process of bond issuance to a blockchain-enabled model, we tokenize the bonds. The digital token is created through a smart contract with a specific standard (in our case, ERC-20). Within the smart contracts developed, we use various functions to handle the prerequisites of validators and regulators’ approval based on the documentation presented and the parameters of rate and maturity requested by the issuer
 
 
 The key actors of the system are:
